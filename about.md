@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="https://avatars1.githubusercontent.com/u/12512626?s=400&u=9a7d72cbb2d6e3ebd6fea2d482d694fc6e6eea6e&v=4" alt="Your Name">
 
 ## About
 
