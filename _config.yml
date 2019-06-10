@@ -1,7 +1,7 @@
 # Site Settings
 title: Jenkov | A Blog for Jenkov Deng
-email: youremail@xyz.com
-description: Some text about your blog.
+email: vip_smiled@163.com
+description: A awesome Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://smilegithub01.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
@@ -15,10 +15,8 @@ disqus_username: disqus_username
 # Remove the item if you don't need it
 github_username: smilegithub01
 facebook_username: 邓阿康
-twitter_username: twitter_username
-instagram_username: instagram_username
 linkedin_username: 邓阿康
-medium_username: medium_username
+
 
 # Build settings
 markdown: kramdown

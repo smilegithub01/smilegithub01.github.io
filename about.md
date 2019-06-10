@@ -9,9 +9,18 @@ permalink: /about/
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I live by myself, I pay my own rent, I wear socks that match and I love my mom. I am a confident, attractive & comedic person.
+
+I do stunt work. Have you ever seen it in a movie when a hot actor has to reveal his naked ass? That’s my job. Oh, and I’m in the fitness biz, as well as back in school finishing up my pre-med reqs.
+
+Food: I love food. Period.
+
+Movies: Gladiator, Fight Club, Braveheart, Anchorman!
+
+Six Things I Would Never do Without:
+
+• Laughter/ comedy
+• Exercise
+• Friends
+• Food
+• That’s none of your business 😉
