@@ -1,5 +1,5 @@
 # Site Settings
-title: Jenkov | A theme for Jekyll
+title: Jenkov | A Blog for Jenkov Deng
 email: youremail@xyz.com
 description: Some text about your blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -13,11 +13,11 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: smilegithub01
+facebook_username: 邓阿康
 twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: 邓阿康
 medium_username: medium_username
 
 # Build settings
