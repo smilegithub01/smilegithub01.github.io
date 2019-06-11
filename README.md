@@ -1,7 +1,7 @@
-# Jekflix Template
+# Jenkov blog Template
 ![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
 
-See the [demo here](https://www.rossener.com/jekflix-template).
+See the [demo here](https://jenkov.xyz).
 
 ## What is it?
 
@@ -145,18 +145,18 @@ introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e
 
 ## Questions?
 
-File a [GitHub Issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
+File a [GitHub Issue](https://github.com/smilegithun01/smilegithub01.github.io/issues/new) please.
 
 ## Donation
 
 Did you like my work? Buy me a beer :)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
+![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
 
 ## Author
 
-[Thiago Rossener](https://www.rossener.com/) based on [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template).
+[Jenkov Deng](http://jenkov.xyz) based on [rossener jekyll](https://www.rossener.com/).
 
 ## License
 
-*Jekflix Template* is available under the MIT license. See the LICENSE file for more info.
+*Jenkov Template* is available under the MIT license. See the LICENSE file for more info.

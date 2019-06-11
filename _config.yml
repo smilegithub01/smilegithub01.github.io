@@ -1,13 +1,13 @@
 # Site Settings
-title: Jenkov | A Blog for Jenkov Deng
+title: Jenkov | Blog for Jenkov Deng
 email: vip_smiled@163.com
 description: A awesome Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://smilegithub01.github.io" # the base hostname & protocol for your site
+url: "https://jenkov.xyz" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jenkov
+username: Jenkov Deng
 user_description: Some text about you.
 disqus_username: disqus_username
 
@@ -43,3 +43,5 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+
+theme: jekyll-theme-cayman
