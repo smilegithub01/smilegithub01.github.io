@@ -1,6 +1,6 @@
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.com'
 
 gem 'rouge'
 gem 'jekyll'
-gem 'jemoji'
 gem 'jekyll-paginate'
+gem 'jekyll-theme-cayman'
