@@ -11,7 +11,7 @@ permalink: /about/
 
 I live by myself, I pay my own rent, I wear socks that match and I love my mom. I am a confident, attractive & comedic person.
 
-I'm am Web developer work. Have you ever seen someone who working hard at midnight ? That’s my job.Oh, whenever I find out what great things I am doing, I am always full of passion and enjoyment.
+I'm am Web developer. Have you ever seen someone who working hard at midnight ? That’s my job.Oh, whenever I find out what great things I am doing, I am always full of passion and enjoyment.
 
 Food: I love food. Period.
 
