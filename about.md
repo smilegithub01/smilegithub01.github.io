@@ -11,7 +11,7 @@ permalink: /about/
 
 I live by myself, I pay my own rent, I wear socks that match and I love my mom. I am a confident, attractive & comedic person.
 
-I do stunt work. Have you ever seen it in a movie when a hot actor has to reveal his naked ass? That’s my job. Oh, and I’m in the fitness biz, as well as back in school finishing up my pre-med reqs.
+I'm am Web developer work. Have you ever seen someone who working hard at midnight ? That’s my job.Oh, whenever I find out what great things I am doing, I am always full of passion and enjoyment.
 
 Food: I love food. Period.
 
