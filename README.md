@@ -151,8 +151,6 @@ File a [GitHub Issue](https://github.com/smilegithun01/smilegithub01.github.io/i
 
 Did you like my work? Buy me a beer :)
 
-![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
-
 ## Author
 
 [Jenkov Deng](http://jenkov.xyz) based on [rossener jekyll](https://www.rossener.com/).
