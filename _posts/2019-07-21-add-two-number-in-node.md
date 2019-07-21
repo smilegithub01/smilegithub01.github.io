@@ -8,7 +8,7 @@ category: 'webdev'
 tags:
 - node
 - web
-twitter_text:链表相加
+twitter_text: 链表相加
 introduction: 给出两个非空链表，表示两个非负整数（0-9） ，它们的每个节点都包含一个数字。请将两个链表节点两个数字值相加并将其作为此类链表头返回。
 ---
 
