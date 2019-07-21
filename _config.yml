@@ -36,12 +36,13 @@ plugins:
 links:
   - title: Home
     url: /
+  - title: My Collection
+    url: /funny/
   - title: About
     url: /about/
   - title: Contact
     url: /contact/
-  - title: My Collection
-    url: /funny/
+
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
